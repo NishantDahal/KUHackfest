@@ -1,7 +1,7 @@
 import cv2
 import pyttsx3
 
-thres = 0.45  # Threshold to detect object
+thres = 0.60  # Threshold to detect object
 
 # Initialize the text-to-speech engine
 engine = pyttsx3.init()
